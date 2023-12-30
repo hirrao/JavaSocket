@@ -1,4 +1,4 @@
 rootProject.name = "JavaSocketClient"
 include(
-    "src"
+    "Client", "Server"
 )
